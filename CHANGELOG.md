@@ -1,3 +1,9 @@
+# [4.2.2]
+- This version is for flutter 3.0 >=.
+
+# [4.2.1]
+- Add compatibility with lower versions of flutter.
+
 # [4.2.0]
 - Flutter 3.0 updated.
 
